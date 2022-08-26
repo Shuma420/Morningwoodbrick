@@ -1,0 +1,24 @@
+<configs>
+
+<append xpath="/items">
+
+	<item name="RaketinesMalkos">
+		<property name="CustomIcon" value="RaketinesMalkos"/>
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="MresourceWood"/>
+		<property name="Weight" value="5"/>
+		<property name="Stacknumber" value="100"/>
+		<property name="FuelValue" value="2000"/
+		<property name="EconomicValue" value="100"/>
+		<property name="EconomicBundleSize" value="10000"/>
+		<property name="Group" value="Resources"/>
+		<property name="RepairAmount" value="100"/>
+		<property name="LootExpValue" value="1"/>
+		<property name="CraftingIngredientTime" value=".5"/>
+	</item>
+
+</append>
+
+</configs>
