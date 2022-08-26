@@ -1,4 +1,3 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,
 
-RaketinesMalkos,items,Item,KgNone,RaketinesMalkos,
-RaketinesMalkosDesc,items,,,Malka ikista i panesiota kojine ir ismirkyta nekaltos mergeles asarose.,
+armorSwatHelmet,items,item,,,SWAT Helmet,
