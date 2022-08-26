@@ -10,7 +10,7 @@
 		<property name="Material" value="MresourceWood"/>
 		<property name="Weight" value="5"/>
 		<property name="Stacknumber" value="100"/>
-		<property name="FuelValue" value="2000"/
+		<property name="FuelValue" value="2000"/>
 		<property name="EconomicValue" value="100"/>
 		<property name="EconomicBundleSize" value="10000"/>
 		<property name="Group" value="Resources"/>
