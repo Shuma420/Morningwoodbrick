@@ -1,4 +1,4 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,
 
 RaketinesMalkos,items,item,?,?,RaketinesMalkos,
-RaketinesMalkosDesc,items,item,?,?,"Potatoes can be eaten, crafted into seeds or used in several recipes at the campfire.",
+RaketinesMalkosDesc,items,item,?,?,"Malka įkišta į panešiota kojinę ir išmirkyta nekaltos mergelės ašarose. Ilgai dega. Šildo čigoniškas sielas. Puikus pasirinkimas jūsų verslui.",
