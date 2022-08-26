@@ -1,0 +1,4 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+RaketinesMalkos,items,Item,KgNone,RaketinesMalkos,
+RaketinesMalkosDesc,items,,,Malka ikista i panesiota kojine ir ismirkyta nekaltos mergeles asarose.,
