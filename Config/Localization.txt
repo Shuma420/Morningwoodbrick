@@ -1,3 +1,4 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,
 
-armorSwatHelmet,items,item,,,SWAT Helmet,
+RaketinesMalkos,items,item,?,?,RaketinesMalkos,
+RaketinesMalkosDesc,items,item,?,?,"Potatoes can be eaten, crafted into seeds or used in several recipes at the campfire.",
