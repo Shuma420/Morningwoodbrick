@@ -17,6 +17,7 @@
 		<property name="RepairAmount" value="100"/>
 		<property name="LootExpValue" value="1"/>
 		<property name="CraftingIngredientTime" value=".5"/>
+		<property name="ItemTypeIcon" value="campfire"/>
 	</item>
 
 </append>
