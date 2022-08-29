@@ -1,3 +1,3 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,
-resourceMorningWoodBrick,items,item,,,Morning Wood Brick,
-resourceMorningWoodBrickDesc,items,item,,,"Firewood is put into the homeless person sock and soaked in virgin girl's tears. Long burning time ~16 mins. Warms your gypsy ass souls. Best choice for your business.",
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+resourceMorningWoodBrick,items,item,,,Morning Wood Brick
+resourceMorningWoodBrickDesc,items,item,,,"Firewood is put into the homeless person sock and soaked in virgin girl's tears. Long burning time ~16 mins. Warms your gypsy ass souls. Best choice for your business."
