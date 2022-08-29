@@ -1,4 +1,4 @@
-# RaketinesMalkos
+# Morning wood brick
 7 days to die Mod
 
-Malka įkišta į panešiota kojinę ir išmirkyta nekaltos mergelės ašarose. Ilgai dega. Šildo čigoniškas sielas. Puikus pasirinkimas jūsų verslui.
+Firewood is put into the homelees person sock and soaked in virgin girl's tears.
