@@ -1,4 +1,4 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,
 
-RaketinesMalkos,items,item,,,Morning wood brick,,
-RaketinesMalkosDesc,items,item,,,"Firewood is put into the homelees person sock and soaked in virgin girl's tears. Long burning time (XX). Warms your gypsy ass souls. Best choice for your business.",,
+Morningwoodbrick,items,item,,,Morning wood brick,,
+MorningwoodbrickDesc,items,item,,,"Firewood is put into the homelees person sock and soaked in virgin girl's tears. Long burning time (XX). Warms your gypsy ass souls. Best choice for your business.",,
