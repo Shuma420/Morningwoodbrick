@@ -1,4 +1,4 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,
 
-RaketinesMalkos,items,item,,,RaketinesMalkos,,
-RaketinesMalkosDesc,items,item,,,"Malka ikista i panesiota kojine ir ismirkyta nekaltos mergeles asarose. Ilgai dega. Sildo cigoniskas sielas. Puikus pasirinkimas jusu verslui.",,
+RaketinesMalkos,items,item,,,Morning wood brick,,
+RaketinesMalkosDesc,items,item,,,"Firewood is put into the homelees person sock and soaked in virgin girl's tears. Long burning time (XX). Warms your gypsy ass souls. Best choice for your business.",,
