@@ -2,7 +2,7 @@
 
 <append xpath="/items">
 
-	<item name="MorningWoodBrick">
+	<item name="resourceMorningWoodBrick">
 		<property name="CustomIcon" value="LMSMonde"/>
 		<property name="HoldType" value="45"/>
 		<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
