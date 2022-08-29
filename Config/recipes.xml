@@ -2,7 +2,7 @@
 
 <append xpath="/recipes">
 
-	<recipe name="resourceMorningWoodBrick" craft_time = "35" count="1">
+	<recipe name="Morning Wood Brick" craft_time = "35" count="1">
 		<ingredient name="resourceWood" count="10"/>
 		<ingredient name="resourceOil" count="5"/>
 		<ingredient name="ammoGasCan" count="20"/>
