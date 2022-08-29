@@ -2,11 +2,12 @@
 
 <append xpath="/recipes">
 
-	<recipe name="Morningwoodbrick" craft_time = "14" count="1">
-		<ingredient name="resourceWood" count="3"/>
-		<ingredient name="resourceCloth" count="1"/>
-		<ingredient name="resourceOil" count="1"/>
-		<ingredient name="ammoGasCan" count="2"/>
+	<recipe name="Morning Wood Brick" craft_time = "14" count="1">
+		<ingredient name="resourceWood" count="10"/>
+		<ingredient name="resourceOil" count="5"/>
+		<ingredient name="ammoGasCan" count="20"/>
+		<ingredient name="drinkBeer" count="1"/>
+		<ingredient name="foodHoney" count="1"/>
 	</recipe>
 
 </append>
